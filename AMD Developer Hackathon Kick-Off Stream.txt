@@ -1,0 +1,3013 @@
+00:34 Hello. Hello everybody. Welcome to the
+00:36 
+
+00:36 official kickoff stream of the AMD
+00:39 
+
+00:39 developer hackathon much anticipated one
+00:42 
+
+00:42 week hybrid build uh with Lavlap and of
+00:46 
+
+00:46 course AMD where we'll build AI agents
+00:49 
+
+00:49 and high performance AI apps on AMD GPUs
+00:53 
+
+00:53 in the cloud. It's May first May 4th and
+00:57 
+
+00:57 it's time to officially begin. We've got
+01:00 
+
+01:00 an amazing lineup of partners star
+01:02 
+
+01:02 powering up this hackathon which are
+01:05 
+
+01:05 natively AI uh Nissa Wired the Cube
+01:09 
+
+01:09 Hugging Face A Systems Motocape Quen and
+01:14 
+
+01:14 Minds DV and a huge price pool of uh
+01:19 
+
+01:19 almost $22,000
+01:22 
+
+01:22 and AMD Radian AI uh Pro Air 970
+01:29 
+
+01:29 GPU you. Uh it's time to begin. My name
+01:34 
+
+01:34 is uh Joanna. I'm a head of marketing at
+01:36 
+
+01:36 Native AI and LAI. Uh I'll be your MC
+01:40 
+
+01:40 for this stream and I'll make sure to
+01:43 
+
+01:43 explain to you step by step how this
+01:46 
+
+01:46 hackathon works. So if you're the first
+01:48 
+
+01:48 time hackers, uh you're in the right
+01:51 
+
+01:51 place. I will also hear uh opening words
+01:54 
+
+01:54 from uh our wonderful partners. Um I'll
+01:58 
+
+01:58 tell you what the challenge is for this
+01:60 
+
+01:60 hackathon. Um what technology we are
+02:04 
+
+02:04 building with and I basically uh be your
+02:06 
+
+02:06 guides so so you feel safe uh and you
+02:10 
+
+02:10 can start building immediately. Um maybe
+02:14 
+
+02:14 for uh those of you who have not joined
+02:18 
+
+02:18 the hackathon yet uh I can tell you a
+02:20 
+
+02:20 bit more about why it's actually worth
+02:24 
+
+02:24 to change your mind and to join us join
+02:26 
+
+02:26 other thousands of builders who are
+02:28 
+
+02:28 already building with us. Uh so first of
+02:31 
+
+02:31 all if you'd like to learn more about
+02:33 
+
+02:33 this hackathon um get all the details
+02:36 
+
+02:36 and um knowledge um resources uh that
+02:41 
+
+02:41 you'd like scan the QR code and you can
+02:44 
+
+02:44 access the event page for this hackathon
+02:46 
+
+02:46 with all the details and also the
+02:48 
+
+02:48 registration.
+02:50 
+
+02:50 Uh so for the perks besides the prizes
+02:54 
+
+02:54 for the winners, everybody who joins uh
+02:56 
+
+02:56 who registers for this hackathon uh gets
+02:59 
+
+02:59 $100 in AMD developer cloud credits for
+03:03 
+
+03:03 um AMD AI developer program members. So
+03:06 
+
+03:06 essentially everybody who registers for
+03:08 
+
+03:08 this hackathon uh automatically joins
+03:11 
+
+03:11 AMDAI developer program. Uh what you
+03:14 
+
+03:14 need to do is just uh scan the QR codes,
+03:17 
+
+03:17 hit the event page, hit the sign up with
+03:19 
+
+03:19 AMD button, you'll be redirected to the
+03:22 
+
+03:22 AMD AI developer program website. You
+03:24 
+
+03:24 create the account and you're officially
+03:27 
+
+03:27 in as the AMD AI developer program
+03:30 
+
+03:30 member and the Hackathon participant.
+03:34 
+
+03:34 You also get at this hackathon access to
+03:37 
+
+03:37 AMD Instinct MI300X
+03:39 
+
+03:39 GPUs uh a set of wonderful uh AI
+03:44 
+
+03:44 courses, workshops and tutorials, one
+03:47 
+
+03:47 month complimentary deep learning AI pro
+03:50 
+
+03:50 membership. Um and also we will building
+03:54 
+
+03:54 fully cloud-based. So um even if you're
+03:57 
+
+03:57 new here uh the first time hacker or the
+04:00 
+
+04:00 advanced hacker uh no hardware is
+04:03 
+
+04:03 required uh it's all a matter of um of
+04:07 
+
+04:07 the apps and agents that you built and
+04:10 
+
+04:10 how far you go with your imagination and
+04:13 
+
+04:13 skills. So if you haven't joined that
+04:16 
+
+04:16 yet big mistake uh but we can fix it
+04:19 
+
+04:19 now. And now straight to the uh event
+04:23 
+
+04:23 schedule. We're kicking off today with
+04:25 
+
+04:25 the stream. And remember this stream
+04:27 
+
+04:27 will be saved on LabLab social media
+04:29 
+
+04:29 profile. So if you'd like to revisit it
+04:31 
+
+04:31 later, you can. It will also be
+04:34 
+
+04:34 available on the event page from the
+04:36 
+
+04:36 previous QR code. So just head to
+04:38 
+
+04:38 label.ai, choose this hackathon and
+04:41 
+
+04:41 access all the videos associated with
+04:43 
+
+04:43 this uh event straight after this
+04:47 
+
+04:47 stream. Uh, I highly encourage everybody
+04:50 
+
+04:50 participating in this hackathon who
+04:51 
+
+04:51 would like to learn more and ask
+04:54 
+
+04:54 questions for the curated Discord Q&A
+04:56 
+
+04:56 session happening on the Lablavai
+04:59 
+
+04:59 Discord server. Uh, it's happening at
+05:01 
+
+05:01 10:00 a.m. um PDT time. Um, and yeah,
+05:07 
+
+05:07 then the hacking journey begins. We're
+05:10 
+
+05:10 building until May 9th. Uh and I
+05:14 
+
+05:14 mentioned at the beginning that this
+05:15 
+
+05:15 hackathon is hybrid. So you can join
+05:18 
+
+05:18 this event and build from wherever
+05:21 
+
+05:21 um you're based at. Uh I believe we have
+05:25 
+
+05:25 uh participants from every single
+05:27 
+
+05:27 country joining us. So yeah, you can
+05:30 
+
+05:30 build fully online. However, for those
+05:32 
+
+05:32 of you who would like to get the full
+05:35 
+
+05:35 hackathon experience, we have the
+05:37 
+
+05:37 on-site part of this hackathon on May
+05:39 
+
+05:39 9th to 10 happening in San Francisco at
+05:42 
+
+05:42 the Mind DB office
+05:46 
+
+05:46 um where we open the doors at 10:00 a.m.
+05:49 
+
+05:49 on May 9th. And this is the full on-site
+05:53 
+
+05:53 build day with workshops,
+05:56 
+
+05:56 um, mentors present on site, judges,
+05:59 
+
+05:59 amazing opportunity for networking,
+06:01 
+
+06:01 having a good time, uh, and yeah, the
+06:04 
+
+06:04 the full hack experience. Um, we've done
+06:07 
+
+06:07 it so many times and personally I
+06:10 
+
+06:10 observed um
+06:13 
+
+06:13 that the build days and the participants
+06:15 
+
+06:15 joining our hacks on site and this
+06:18 
+
+06:18 experience cannot be compared to
+06:19 
+
+06:19 anything else. super fun. So, highly
+06:21 
+
+06:21 encourage you uh those of you who can to
+06:24 
+
+06:24 join us in San Francisco. Uh the first
+06:26 
+
+06:26 day is the build day and um remember
+06:30 
+
+06:30 that on May 9th uh yeah uh is May 9th is
+06:36 
+
+06:36 only the first day. However, on May
+06:38 
+
+06:38 10th, uh we have uh the live onstage
+06:42 
+
+06:42 pitching day. So, those of you present
+06:45 
+
+06:45 in San Francisco have a chance to pitch
+06:48 
+
+06:48 on stage. what you've built. Um
+06:53 
+
+06:53 so yeah, an amazing chance to actually
+06:56 
+
+06:56 show to the world um what can be built
+06:58 
+
+06:58 in just 7 days with AMD. Uh also
+07:02 
+
+07:02 remember that the end of submission uh
+07:05 
+
+07:05 is set for uh 12:00 p.m. Pacific time on
+07:09 
+
+07:09 May 10th. So all the projects built
+07:12 
+
+07:12 during this hackathon no matter on site
+07:14 
+
+07:14 in San Francisco or online should be
+07:16 
+
+07:16 submitted by that time via the lab
+07:19 
+
+07:19 platform. Um and yeah that's it for the
+07:24 
+
+07:24 event schedule. Um and uh yeah, those of
+07:28 
+
+07:28 you who'd like to join us on site, just
+07:31 
+
+07:31 scan the cure code, register for the
+07:32 
+
+07:32 hackathon. Um
+07:35 
+
+07:35 and yeah, we'll we'll make sure to um
+07:39 
+
+07:39 follow up with you over email with the
+07:41 
+
+07:41 on-site confirmation so you can enjoy
+07:44 
+
+07:44 the full experience. Also, you can see
+07:46 
+
+07:46 the address of the MindB office on that
+07:49 
+
+07:49 page. Um, now let me introduce our
+07:54 
+
+07:54 speakers that will join us with their
+07:57 
+
+07:57 opening words. First of all, I'd like to
+08:00 
+
+08:00 welcome on the stage Pavo Czech, uh, CEO
+08:03 
+
+08:03 of Native AI and co-founder of Labai to
+08:07 
+
+08:07 warm you up as our first speaker. Pav,
+08:11 
+
+08:11 the floor is yours.
+08:14 
+
+08:14 [music]
+08:22 
+
+08:22 Hi everybody, my name is Pavo. I'm the
+08:25 
+
+08:25 co-founder of lablab.ai.
+08:27 
+
+08:27 Welcome to another Lab Lab hackathon.
+08:30 
+
+08:30 It's a real pleasure to have you here.
+08:33 
+
+08:33 Thank you for joining us. Over the next
+08:36 
+
+08:36 few days, you'll be participating in a
+08:39 
+
+08:39 true innovative [music] process. You can
+08:42 
+
+08:42 find team members, access new
+08:44 
+
+08:44 technologies, [music] and win amazing
+08:46 
+
+08:46 prizes.
+08:48 
+
+08:48 Regardless of whether you're joining us
+08:49 
+
+08:49 online or physically, I really hope that
+08:53 
+
+08:53 you're going to find true joy in the act
+08:56 
+
+08:56 of building. I often say that building
+09:00 
+
+09:00 companies or building software is
+09:03 
+
+09:03 similar to writing a poem or a song. It
+09:08 
+
+09:08 is the act of creation which for me
+09:10 
+
+09:10 means taking something out of nothing
+09:14 
+
+09:14 and it's not easy. It's always difficult
+09:16 
+
+09:16 to be a builder to be a innovator. But
+09:19 
+
+09:19 today when you joined a labl hackathon
+09:23 
+
+09:23 you've already taken the first step to
+09:26 
+
+09:26 winning. And regardless of the outcome
+09:29 
+
+09:29 of the specific hack, I hope that you
+09:31 
+
+09:31 find amazing people in our community of
+09:34 
+
+09:34 creators and innovators.
+09:36 
+
+09:36 Once again, thank you to all the
+09:39 
+
+09:39 partners and the sponsors for this
+09:42 
+
+09:42 specific event. Please check out all the
+09:44 
+
+09:44 tech that's available for you. Make sure
+09:46 
+
+09:46 to connect with our team and ask any
+09:49 
+
+09:49 questions.
+09:51 
+
+09:51 Enjoy the next few days and I hope that
+09:55 
+
+09:55 you continue to build with us in our
+09:58 
+
+09:58 ecosystem. Please check out our other
+10:02 
+
+10:02 services and our other initiatives to
+10:05 
+
+10:05 make sure that you can have a full
+10:07 
+
+10:07 journey from idea to prototype MVP and
+10:12 
+
+10:12 then building your company into an
+10:15 
+
+10:15 actual business. Have a great time and
+10:18 
+
+10:18 see you on the next one.
+10:24 
+
+10:24 >> [music]
+10:30 
+
+10:30 >> Thank you, Pavo. Um, that was great. And
+10:35 
+
+10:35 now, uh, time for the opening words from
+10:39 
+
+10:39 AMD. I'd like to welcome on stage uh,
+10:43 
+
+10:43 Ramen Rosen uh, corporate VP uh, of AI
+10:48 
+
+10:48 at AMD. Hi everyone, I'm Ramen Rouan,
+10:52 
+
+10:52 corporate vice president of AI
+10:54 
+
+10:54 applications and developer relations at
+10:57 
+
+10:57 AMD. I'm really happy to welcome you uh
+11:00 
+
+11:00 at this hackathon. We have 10,000 people
+11:02 
+
+11:02 registered online on top of the people
+11:05 
+
+11:05 we have in person in San Francisco. This
+11:08 
+
+11:08 hackathon is about uh building building
+11:12 
+
+11:12 uh state-of-the-art AI application like
+11:15 
+
+11:15 agentic workflows, fine-tuning of
+11:17 
+
+11:17 models, and also image and multimodel
+11:21 
+
+11:21 workflows. We have $20,000 of prizes and
+11:25 
+
+11:25 a radon GPU which you can win if you
+11:28 
+
+11:28 share your experiences on social media
+11:32 
+
+11:32 along the way. At AMD, what really
+11:34 
+
+11:34 matters to us is what you build on our
+11:36 
+
+11:36 platform. So we're trying to remove the
+11:39 
+
+11:39 friction and enable you and for that we
+11:42 
+
+11:42 have created a developer program. If you
+11:45 
+
+11:45 look up AMD AI developer program and
+11:47 
+
+11:47 register to it uh you will see that you
+11:51 
+
+11:51 get free data center GPU credits. We
+11:55 
+
+11:55 have MI 300 and MI uh 355 on our
+12:01 
+
+12:01 devcloud. We also give you free training
+12:04 
+
+12:04 including one month registration to deep
+12:08 
+
+12:08 learning AI pro and uh we have
+12:11 
+
+12:11 engineering support on discord. So with
+12:13 
+
+12:13 that I would like to wish you good luck
+12:16 
+
+12:16 and uh please feel free to break things
+12:20 
+
+12:20 try crazy things uh and the outcome at
+12:24 
+
+12:24 the end really matters but uh what is
+12:27 
+
+12:27 really the most important I think uh for
+12:30 
+
+12:30 you is the connection you will make
+12:32 
+
+12:32 during this hackathon and the experience
+12:35 
+
+12:35 you will gain from it. Thank you very
+12:37 
+
+12:37 much and have a great hackathon.
+12:50 
+
+12:50 Thank you so much and uh at Lavlup and
+12:55 
+
+12:55 natively we are so happy to run this
+12:58 
+
+12:58 hackathon together with AMD and honestly
+13:01 
+
+13:01 cannot wait how the builders surprise us
+13:04 
+
+13:04 over the next few days. Now I'd like to
+13:09 
+
+13:09 welcome uh Jeff Burer uh VP of product
+13:15 
+
+13:15 at HuggingFace with his opening words.
+13:20 
+
+13:20 >> Hi everyone and welcome to the AMD
+13:22 
+
+13:22 developer hackathon. I'm Jeff Bodier
+13:24 
+
+13:24 from HuggingFace and I'm really excited
+13:26 
+
+13:26 to see what you're going to build using
+13:29 
+
+13:29 AMD GPUs in the cloud and Hugging Face.
+13:33 
+
+13:33 Hugging face and AMD have been working
+13:35 
+
+13:35 together for many years, really closely
+13:38 
+
+13:38 to make sure that HuggingFace models and
+13:40 
+
+13:40 libraries work really well and really
+13:43 
+
+13:43 fast on AMD GPUs. You can learn all
+13:47 
+
+13:47 about our partnership on our blog. Even
+13:50 
+
+13:50 read on how we're able to accelerate
+13:53 
+
+13:53 hiding face models on AMD Instinct GPUs.
+13:57 
+
+13:57 Um, and today we publish a daily CI
+14:03 
+
+14:03 dashboard. We run thousands of tests
+14:06 
+
+14:06 every day uh for Transformers models on
+14:09 
+
+14:09 AMD GPUs to make sure that they work
+14:12 
+
+14:12 great out of the box for you. In fact,
+14:14 
+
+14:14 today AMD has the best success rate on
+14:18 
+
+14:18 tests. over 99% of uh tests succeed and
+14:22 
+
+14:22 we continuously monitor that so that you
+14:24 
+
+14:24 have a great developer experience. All
+14:28 
+
+14:28 right, so back to the hackathon. We are
+14:31 
+
+14:31 happy to sponsor a special prize
+14:34 
+
+14:34 category for hugging face. All you have
+14:37 
+
+14:37 to do is to one use some assets from
+14:40 
+
+14:40 hugging face whether it is a model or a
+14:42 
+
+14:42 data set. two, leverage the AMD
+14:46 
+
+14:46 developer cloud. So, you can either
+14:48 
+
+14:48 fine-tune a model using the AMD
+14:50 
+
+14:50 developer cloud or you can use the AMD
+14:53 
+
+14:53 developer cloud as a backend to run uh
+14:56 
+
+14:56 your models and three publish your
+14:60 
+
+14:60 application as a henface space uh in the
+15:04 
+
+15:04 organization created for the hackathon.
+15:08 
+
+15:08 After that, may the best space win. May
+15:12 
+
+15:12 the space with the most likes win. And
+15:15 
+
+15:15 we'll select three winners. The winners
+15:18 
+
+15:18 will uh win uh first compute credits to
+15:23 
+
+15:23 use with hugging face jobs inference
+15:25 
+
+15:25 endpoints um and uh spaces zero GPU.
+15:31 
+
+15:31 also uh months of Hidenface Pro. If
+15:35 
+
+15:35 you're not familiar with Hidenface Pro,
+15:38 
+
+15:38 it is the best deal on the internet for
+15:41 
+
+15:41 AI. Uh with uh $9 a month, you get a lot
+15:46 
+
+15:46 of stuff. You get credits uh for your
+15:49 
+
+15:49 spaces uh uh zero GPU. You get uh
+15:53 
+
+15:53 credits to run inference using inference
+15:56 
+
+15:56 providers like fireworks together
+15:58 
+
+15:58 cerebrasa
+16:01 
+
+16:01 and 20 more. Um you get um elevated rate
+16:05 
+
+16:05 limits more private storage a terabyte
+16:09 
+
+16:09 of data and much more. So that's hiding
+16:12 
+
+16:12 face pro and the winners will get months
+16:15 
+
+16:15 of hiding face pro. And then last but
+16:18 
+
+16:18 not least, the winner will get a Richie
+16:24 
+
+16:24 Mini Wireless. This little guy, my
+16:26 
+
+16:26 little friend. Why don't you say hello
+16:28 
+
+16:28 to the crowd here?
+16:31 
+
+16:31 Okay, don't be shy. Uh I think Richie is
+16:34 
+
+16:34 being being a little shy, but that's
+16:36 
+
+16:36 okay. Okay. So, the lucky winner will
+16:39 
+
+16:39 get [laughter]
+16:41 
+
+16:41 will get one richy mini whereas um
+16:47 
+
+16:47 the space with the most likes. So, first
+16:50 
+
+16:50 off uh make sure that you join the
+16:54 
+
+16:54 organization created on hiding face to
+16:56 
+
+16:56 host the hackathon where the spaces need
+16:59 
+
+16:59 to be published. There will be um
+17:02 
+
+17:02 workshop uh set up by Stephen to teach
+17:05 
+
+17:05 you how to do that, how to publish a
+17:07 
+
+17:07 space on hugging face. Have fun. Make
+17:11 
+
+17:11 sure uh you build with uh open models.
+17:15 
+
+17:15 Uh make sure that you build in the open
+17:18 
+
+17:18 and take advantage of the amazing AMD
+17:22 
+
+17:22 GPUs available to you through this
+17:24 
+
+17:24 hackathon on the AMD developer cloud.
+17:28 
+
+17:28 Thank you very much and happy building.
+17:31 
+
+17:31 Thank you so much Jeff. That was great.
+17:34 
+
+17:34 And at Lablap uh we are more than happy
+17:36 
+
+17:36 to welcome Hagging Face on board as I
+17:39 
+
+17:39 believe this is our uh first but
+17:42 
+
+17:42 definitely not the last hackathon
+17:45 
+
+17:45 together with Hagging Face. Um now uh
+17:50 
+
+17:50 time for the opening video from Aka
+17:53 
+
+17:53 Systems by Daniel Francis CEO at AKA
+17:58 
+
+17:58 systems.
+18:01 
+
+18:01 Akos Systems, a Kosla Ventures and
+18:03 
+
+18:03 founders fund back company has announced
+18:05 
+
+18:05 the world's first diamond cooled AI
+18:08 
+
+18:08 servers powered by AMD Instinct GPUs and
+18:11 
+
+18:11 manufactured [music] by MTAC computing.
+18:13 
+
+18:13 The launch marks the first commercial
+18:14 
+
+18:14 deployment of diamond cooling technology
+18:16 
+
+18:16 in AI data centers. Breaking through the
+18:19 
+
+18:19 thermal bottleneck limiting AI
+18:21 
+
+18:21 infrastructure.
+18:22 
+
+18:22 >> A cautious diamond cooled servers are
+18:24 
+
+18:24 [music] the most energy and capital
+18:26 
+
+18:26 efficient servers in the market.
+18:29 
+
+18:29 We use diamond, the world's most
+18:31 
+
+18:31 thermally conductive material, and we
+18:33 
+
+18:33 bring it to within very close proximity
+18:35 
+
+18:35 of the GPU, the biggest heat source in a
+18:38 
+
+18:38 server.
+18:41 
+
+18:41 Really excited to be bringing this to
+18:43 
+
+18:43 market. AMD plus aos and myac. It's
+18:46 
+
+18:46 extremely powerful AI solution.
+18:49 
+
+18:49 We're really looking forward to the
+18:50 
+
+18:50 solutions that they can provide
+18:52 
+
+18:52 improving the compute capability of our
+18:54 
+
+18:54 GPUs both for air cooled and liquid
+18:57 
+
+18:57 cooled as we move into the future.
+19:00 
+
+19:00 This technology was originally developed
+19:02 
+
+19:02 to combat thermal radiation and keep
+19:04 
+
+19:04 satellites [music] cool in orbit.
+19:06 
+
+19:06 Bringing diamonds directly to the GPU
+19:08 
+
+19:08 heat source reduces operating
+19:10 
+
+19:10 temperatures, [music] enabling
+19:11 
+
+19:11 throttle-free peak performance.
+19:14 
+
+19:14 What we have here today is we're
+19:16 
+
+19:16 demonstrating the performance of a
+19:17 
+
+19:17 diamond [music] cooled server as
+19:19 
+
+19:19 compared to a stock server. The normal
+19:21 
+
+19:21 operating temperature of a data center
+19:23 
+
+19:23 is between 75 and 85° F. With diamond
+19:27 
+
+19:27 cooling, you can run that at up to 120°
+19:30 
+
+19:30 F.
+19:33 
+
+19:33 In standard data [music] center
+19:34 
+
+19:34 environments, these diamond cooled
+19:36 
+
+19:36 servers deliver up to 22% higher [music]
+19:39 
+
+19:39 flops per watt and up to 15% more token
+19:42 
+
+19:42 throughput in high ambient environments.
+19:44 
+
+19:44 That performance can generate up to $1
+19:46 
+
+19:46 million in incremental cache impact per
+19:48 
+
+19:48 server over 4 years.
+19:52 
+
+19:52 >> Currently 30% of the power [music] of
+19:55 
+
+19:55 any data center is used for cooling. If
+19:58 
+
+19:58 you eliminate [music] the cooling
+19:59 
+
+19:59 completely, then you have 30% extra
+20:02 
+
+20:02 power that can immediately be
+20:03 
+
+20:03 reallocated to servers in the data
+20:07 
+
+20:07 centers.
+20:08 
+
+20:08 >> You can use the savings in energy to add
+20:11 
+
+20:11 more servers and [music] thus more
+20:13 
+
+20:13 compute to the data center. Either way,
+20:16 
+
+20:16 you're getting more cost savings or more
+20:18 
+
+20:18 [music] revenue or a blend of both.
+20:21 
+
+20:21 >> Systems is redefining what energy and
+20:23 
+
+20:23 capital efficient AI infrastructure
+20:25 
+
+20:25 looks like. [music] accelerating AI
+20:27 
+
+20:27 deployments profitably and at scale.
+20:38 
+
+20:38 Have you ever seen a piece of diamond
+20:40 
+
+20:40 cut [music] through ice? Not with sharp
+20:42 
+
+20:42 edges, but with heat. It isn't magic.
+20:45 
+
+20:45 [music] It's material science. It's
+20:47 
+
+20:47 called thermal conductivity, and it's
+20:50 
+
+20:50 one of the most remarkable [music]
+20:51 
+
+20:51 properties of diamond. Now, what is
+20:53 
+
+20:53 thermal conductivity? It is the ability
+20:55 
+
+20:55 of a material to transfer heat. The
+20:58 
+
+20:58 higher the thermal conductivity, the
+20:59 
+
+20:59 easier it is to transfer heat from the
+21:00 
+
+21:00 hot areas to the cold [music] areas. And
+21:03 
+
+21:03 all materials have different thermal
+21:04 
+
+21:04 conductivity. And diamond is the most
+21:07 
+
+21:07 thermally conductive [music] material on
+21:09 
+
+21:09 Earth. Most thermal conductive materials
+21:11 
+
+21:11 like copper use electrons to transfer
+21:14 
+
+21:14 heat. Diamond uses [music] phonons and
+21:17 
+
+21:17 in principle phonons can transfer the
+21:19 
+
+21:19 heat much more [music] efficiently than
+21:21 
+
+21:21 electrons. So, while copper has a
+21:23 
+
+21:23 thermal conductivity of about 400 watts
+21:26 
+
+21:26 per meter kelvin, diamond has a thermal
+21:28 
+
+21:28 conductivity of about 2,000 watts per
+21:30 
+
+21:30 meter kelvin, making it [music] five
+21:32 
+
+21:32 times more thermally conductive than
+21:35 
+
+21:35 copper. And it also makes diamond the
+21:37 
+
+21:37 most thermally conductive material on
+21:39 
+
+21:39 Earth. When [music] a diamond cuts
+21:41 
+
+21:41 through ice, it's not merely slicing
+21:43 
+
+21:43 through. It's actually [music] drawing
+21:45 
+
+21:45 heat from its surroundings, such as my
+21:47 
+
+21:47 hand and the air, concentrating it at
+21:50 
+
+21:50 the point of contact. This rapid
+21:52 
+
+21:52 transfer [music] of heat melts the ice
+21:54 
+
+21:54 precisely where the diamond touches it
+21:56 
+
+21:56 while diamond itself turns ice cold,
+21:59 
+
+21:59 demonstrating its exceptional ability
+22:00 
+
+22:01 [music] to pull and distribute heat.
+22:03 
+
+22:03 Now, why is this important? Because
+22:05 
+
+22:05 managing heat in electronics is [music]
+22:06 
+
+22:06 crucial. Excess heat can lead to
+22:08 
+
+22:08 catastrophic device failure and reduced
+22:10 
+
+22:10 efficiency. Which is why [music]
+22:13 
+
+22:13 improving how we dissipate heat enhances
+22:15 
+
+22:15 the stability and performance of
+22:16 
+
+22:16 electronic devices. And while diamond
+22:19 
+
+22:19 excels at conducting heat, it does not
+22:21 
+
+22:21 conduct electricity, which limits its
+22:23 
+
+22:23 [music] direct application as an
+22:25 
+
+22:25 electronic material. This is where a
+22:27 
+
+22:27 kosh system steps in. We've pioneered
+22:29 
+
+22:29 [music] a method to fuse diamond with
+22:31 
+
+22:31 materials that are effective electrical
+22:33 
+
+22:33 conductors such as gallium nitrite. This
+22:36 
+
+22:36 fusion, we call it diamond [music]
+22:37 
+
+22:37 cooling, marries the best of both
+22:38 
+
+22:38 worlds. It allows us to use Diamond's
+22:41 
+
+22:41 [music] exceptional ability to manage
+22:43 
+
+22:43 heat alongside with materials that power
+22:46 
+
+22:46 [music] electronic functions. The result
+22:48 
+
+22:48 is devices that are not only more
+22:50 
+
+22:50 efficient, but can handle more power and
+22:52 
+
+22:52 run cooler. In fact, [music]
+22:54 
+
+22:54 these diamond cooled devices can operate
+22:57 
+
+22:57 in an environment that is much hotter
+22:59 
+
+22:59 than other non-diamond [music] cooled
+23:01 
+
+23:01 devices. Diamond cooling is the next
+23:03 
+
+23:03 generation heat extraction. It is set to
+23:05 
+
+23:05 unlock the full potential [music] of our
+23:07 
+
+23:07 technological capabilities, paving the
+23:09 
+
+23:09 way to a cooler, faster, and more
+23:12 
+
+23:12 sustainable [music] world.
+23:20 
+
+23:20 All right, folks. So, these were all our
+23:23 
+
+23:23 speakers of the day and now time to get
+23:28 
+
+23:28 things done. Uh so let me tell you uh
+23:32 
+
+23:32 what is the challenge for this
+23:34 
+
+23:34 hackathon. Uh so you already know that
+23:37 
+
+23:37 we're building AI agents and high
+23:39 
+
+23:39 performance AI apps on AMD GPUs in the
+23:42 
+
+23:42 cloud. But what does this actually mean?
+23:46 
+
+23:46 We want you to build real systems, a
+23:49 
+
+23:49 real AI systems on [snorts] AMD. So your
+23:52 
+
+23:52 mission is to develop um AI agents and
+23:57 
+
+23:57 uh apps using AMD developer crowd uh
+24:00 
+
+24:00 ROCM and model APIs. You should work
+24:04 
+
+24:04 entirely in the cloud with instant
+24:07 
+
+24:07 access to compute. So no setup or
+24:09 
+
+24:09 hardware is required. Um, you should
+24:12 
+
+24:12 focus on building the end-to-end
+24:14 
+
+24:14 solutions that automate workflows, solve
+24:16 
+
+24:16 real problems, and demonstrate practical
+24:19 
+
+24:19 use of AMD's AI stack. So, experiment,
+24:24 
+
+24:24 prototype, and scale real ideas. Uh,
+24:28 
+
+24:28 we've got multiple tracks that you can
+24:31 
+
+24:31 tackle on this hackathon. So, you can
+24:33 
+
+24:33 basically choose the way you'd like to
+24:35 
+
+24:35 proceed in here. Uh the good news is
+24:38 
+
+24:38 we've got um tracks for the beginners as
+24:43 
+
+24:43 well as the advanced uh builders. So
+24:46 
+
+24:46 even if uh you're new to AI and uh
+24:49 
+
+24:49 you're here to explore and actually
+24:51 
+
+24:51 build your first apps, this is the right
+24:53 
+
+24:53 place to be. And also um yeah, the
+24:57 
+
+24:57 multihackers and the experience
+24:59 
+
+24:59 builders, we've got a special tracks for
+25:02 
+
+25:02 you so you can showcase your skills. Uh
+25:05 
+
+25:05 let's start with AI agents and agentic
+25:07 
+
+25:07 workflows. So this is exactly the track
+25:11 
+
+25:11 that uh we encourage the beginners to
+25:14 
+
+25:14 choose. Your mission here is to build
+25:16 
+
+25:16 intelligent AI systems that automate
+25:18 
+
+25:18 workflows, coordinate agents or assist
+25:20 
+
+25:20 users in complex tasks. Then the
+25:24 
+
+25:24 advanced track is fine-tuning on AMD
+25:28 
+
+25:28 GPUs. So um here it's all about domain
+25:33 
+
+25:33 specific LLMs. You can focus on
+25:35 
+
+25:35 healthcare, finance, legal or codes uh
+25:38 
+
+25:38 fine-tuned for accuracy and efficiency
+25:41 
+
+25:41 on ROCM. Uh then the third track is
+25:45 
+
+25:45 vision and multimodel AI where you can
+25:48 
+
+25:48 build applications that process and
+25:50 
+
+25:50 understand multiple uh data types. So
+25:53 
+
+25:53 yeah, multimodality and the extra
+25:57 
+
+25:57 optional track uh that can be tackled um
+26:02 
+
+26:02 for every single previous track that I
+26:05 
+
+26:05 mentioned just as extra uh is the built
+26:08 
+
+26:08 in public track. So imagine that you
+26:11 
+
+26:11 choose the fine-tuning on AMD GPU track
+26:13 
+
+26:13 but on top of that you're also building
+26:16 
+
+26:16 in public then you do both tracks at
+26:19 
+
+26:19 once. They can be combined. Uh the
+26:21 
+
+26:21 building public track is um about
+26:24 
+
+26:24 documenting your building journey,
+26:27 
+
+26:27 sharing the insights and providing
+26:29 
+
+26:29 feedback on the AMD developer
+26:32 
+
+26:32 experience. Uh the whole description of
+26:34 
+
+26:34 the task you of the track you can find
+26:36 
+
+26:36 on the event page that you use to
+26:38 
+
+26:38 register for this hackathon and also the
+26:39 
+
+26:39 same QR I was sharing earlier. Uh it's
+26:43 
+
+26:43 all about being loud about your
+26:46 
+
+26:46 projects, showing people how you built,
+26:48 
+
+26:48 what you built, what your journey is on
+26:50 
+
+26:50 social media. Uh and and more. Uh then
+26:56 
+
+26:56 regarding the technology that we're
+26:58 
+
+26:58 using at this hackathon, we're building
+27:00 
+
+27:00 using AMD developer cloud and ROCM uh
+27:04 
+
+27:04 with access to Rio GPU infrastructure.
+27:07 
+
+27:07 So yeah, one more time, fully in the
+27:10 
+
+27:10 cloud. And I highly encourage you to
+27:13 
+
+27:13 scan the QR code that you can see right
+27:14 
+
+27:14 now on the screen to check out the
+27:16 
+
+27:16 developer resources that we've prepared
+27:19 
+
+27:19 for you to actually make sure that you
+27:22 
+
+27:22 have everything you need to build. Um
+27:26 
+
+27:26 for the access to technology,
+27:29 
+
+27:29 um let's start with AMD developer cloud.
+27:32 
+
+27:32 So what you can use it for is training
+27:35 
+
+27:35 and fine-tuning machine learning models,
+27:37 
+
+27:37 benchmarking AI workloads uh on AMD
+27:40 
+
+27:40 GPUs, prototyping AI systems before
+27:43 
+
+27:43 moving to uh onrem infrastructure and
+27:47 
+
+27:47 yeah uh as I mentioned at the beginning
+27:50 
+
+27:50 when you register to the hackathon and
+27:51 
+
+27:51 click uh on labai uh register with AMD
+27:55 
+
+27:55 uh you're instantly creating your AMD um
+27:59 
+
+27:59 developer account uh and you're getting
+28:02 
+
+28:02 $100
+28:04 
+
+28:04 in the cloud credits. Um
+28:08 
+
+28:08 and then R OCM which is radian open
+28:13 
+
+28:13 compute. Uh what you can use it for? You
+28:16 
+
+28:16 can run PyTorch and TensorFlows uh flow
+28:19 
+
+28:19 on AMD GPUs porting uh CUDA based
+28:24 
+
+28:24 workloads uh to AMD hardware or execute
+28:28 
+
+28:28 high performance AI and ML workloads. Um
+28:33 
+
+28:33 you're also getting free access to all
+28:35 
+
+28:35 the courses. So, if that's your first
+28:37 
+
+28:37 time actually building with it, um we
+28:41 
+
+28:41 made sure with AMD that you've got
+28:43 
+
+28:43 everything you need to actually kick off
+28:46 
+
+28:46 your uh journey. Um
+28:50 
+
+28:50 and yeah, let's move on to the extra
+28:55 
+
+28:55 challenge. And that was all for the main
+28:57 
+
+28:57 challenge for this hackathon. Uh hacking
+29:00 
+
+29:00 face has joined us with their own
+29:03 
+
+29:03 challenge. So uh for those of you who
+29:06 
+
+29:06 are not familiar with Hagging Face, this
+29:09 
+
+29:09 is the home of open source AI uh that's
+29:12 
+
+29:12 hosting over 2 million models, data sets
+29:15 
+
+29:15 and spaces that you can access,
+29:17 
+
+29:17 fine-tune and deploy. Uh and for this uh
+29:21 
+
+29:21 exact hackathon um hagging phase is
+29:24 
+
+29:24 serving as a model hub and deployment
+29:27 
+
+29:27 layer for your project. So you can pull
+29:29 
+
+29:29 a model from the hagging face hub,
+29:31 
+
+29:31 fine-tune it or build on it using the
+29:33 
+
+29:33 AMD developer cloud GPUs and then
+29:35 
+
+29:35 publish your final project back to
+29:38 
+
+29:38 hagging face as a space. Um
+29:42 
+
+29:42 so how it actually works uh if it comes
+29:45 
+
+29:45 to the hiding face uh credits um you can
+29:51 
+
+29:51 scan another QR codes that you can see
+29:53 
+
+29:53 right now on the screen uh and you can
+29:56 
+
+29:56 join the events hugging face
+29:58 
+
+29:58 organization uh with it um all the
+30:01 
+
+30:01 people uh who registered for this
+30:03 
+
+30:03 hackathon uh can join the hagging face
+30:08 
+
+30:08 um organization for that um step by step
+30:13 
+
+30:13 uh you can find a model unhagging face
+30:15 
+
+30:15 hub to work with then you can build or
+30:17 
+
+30:17 fine-tune it uh using the AMD developer
+30:21 
+
+30:21 craft credits that you're getting uh by
+30:23 
+
+30:23 by joining this hackin uh then uh
+30:26 
+
+30:26 publish your completed project as a
+30:28 
+
+30:28 hagging face space with the event
+30:30 
+
+30:30 organization and submit your space link
+30:33 
+
+30:33 on lablab when you submit your project
+30:35 
+
+30:35 and yeah just in a moment from now we'll
+30:38 
+
+30:38 jump to the phase where I explain you
+30:40 
+
+30:40 step by step how to submit your project.
+30:43 
+
+30:43 Um then uh for the hugging face
+30:47 
+
+30:47 challenge, we've got the extra uh prize.
+30:51 
+
+30:51 So the space with the most likes at the
+30:53 
+
+30:53 end of the hackathon wins and once your
+30:57 
+
+30:57 space is live, share it. Uh the
+30:59 
+
+30:59 community and the community votes with
+31:02 
+
+31:02 the likes
+31:04 
+
+31:04 um for the resources prepped for this
+31:06 
+
+31:06 hackathon. So, first of all, um if you
+31:10 
+
+31:10 register for this hack and you're
+31:11 
+
+31:11 getting approved because you created
+31:13 
+
+31:13 your AMDA developer account, uh you're
+31:15 
+
+31:15 already accessing tons of um knowledge
+31:20 
+
+31:20 resources via the AMDA developer
+31:22 
+
+31:22 program. Uh however, on top of that,
+31:25 
+
+31:25 we've got some special workshops for you
+31:28 
+
+31:28 uh especially for this hackathon. You
+31:31 
+
+31:31 can explore all of them on the lab.ai I
+31:34 
+
+31:34 on the landing page used to register for
+31:36 
+
+31:36 this hackathon. So a lot of the AI
+31:40 
+
+31:40 hackathon AMD developer head over there
+31:43 
+
+31:43 and you can find all the workshops there
+31:46 
+
+31:46 um to learn from. Um for the workshops
+31:49 
+
+31:49 for this hackathon first of all we've
+31:51 
+
+31:51 got uh the getting started on AMD
+31:54 
+
+31:54 developer cloud workshop by Mahari Trivi
+31:57 
+
+31:57 a product applications engineer at AMD.
+32:01 
+
+32:01 Then uh AI agents 101. So building AI
+32:05 
+
+32:05 agents with MCP and open-source
+32:07 
+
+32:07 inference by Mari Gotsy, AI solution
+32:10 
+
+32:10 architect at AMD. And then uh last but
+32:15 
+
+32:15 not least, build and deploy an AI app on
+32:18 
+
+32:18 AMD MI300X
+32:20 
+
+32:20 as a hagging face spaced by Steven Kimoy
+32:23 
+
+32:23 uh Derell at Lablap.
+32:27 
+
+32:27 um for the price this. So, uh what I
+32:30 
+
+32:30 suppose a lot of you are waiting for,
+32:33 
+
+32:33 we've got a price pool of um almost 20
+32:37 
+
+32:37 $22,000
+32:39 
+
+32:39 and the uh AMD Radian. Um so, let's see
+32:45 
+
+32:45 how that breaks down. Um so the grand
+32:50 
+
+32:50 prize is $5,000
+32:52 
+
+32:52 and it's awarded to the overall top
+32:56 
+
+32:56 project uh developed at this hackathon.
+32:59 
+
+32:59 Uh then the exclusive hardware rewards.
+33:02 
+
+33:02 So AMD Radian AI Pro uh R97
+33:07 
+
+33:07 GPU uh and this gets awarded for
+33:11 
+
+33:11 outstanding social engagement or project
+33:14 
+
+33:14 promotion. So as I told you don't stay
+33:17 
+
+33:17 quiet about um this hackathon about uh
+33:21 
+
+33:21 what you're building in here share your
+33:22 
+
+33:22 journey and you could win this amazing
+33:26 
+
+33:26 thing. Um then uh as I also mentioned at
+33:31 
+
+33:31 the beginning uh we have multiple tracks
+33:33 
+
+33:33 available for this hackathon. So we've
+33:35 
+
+33:35 got separate price pools for every
+33:38 
+
+33:38 single of these tracks. So, the beginner
+33:42 
+
+33:42 trap. So, AI agent and agentic works.
+33:45 
+
+33:45 We've got three projects that can win
+33:48 
+
+33:48 here. The first place gets $2,500,
+33:51 
+
+33:51 second place $1,500, and the third place
+33:55 
+
+33:55 $1,000.
+33:56 
+
+33:56 Then, the finetuning on AMD GPUs has
+34:00 
+
+34:00 exactly the same price pool. Uh, and the
+34:03 
+
+34:03 vision and multimodal AI also the same.
+34:08 
+
+34:08 So, in total for the free tracks, we've
+34:10 
+
+34:10 got nine prizes. So, in each track,
+34:12 
+
+34:12 yeah, three winning teams uh plus the
+34:15 
+
+34:15 grand prize plus exclusive hardware
+34:18 
+
+34:18 reward. Um, as you all remember, we also
+34:22 
+
+34:22 have the extra hagging face challenge.
+34:24 
+
+34:24 So, if in addition to the main track
+34:27 
+
+34:27 that you choose on this hackathon, you
+34:29 
+
+34:29 decide to tackle the hagging face
+34:31 
+
+34:31 challenge, you qualify you qualify for
+34:33 
+
+34:33 the extra hugging face special prize. Um
+34:38 
+
+34:38 so remember this is awarded to the
+34:40 
+
+34:40 hagging face space in the event
+34:42 
+
+34:42 organization uh with the most likes. So
+34:46 
+
+34:46 the first place here uh gets one reitim
+34:49 
+
+34:49 mini wireless and six months hugging
+34:52 
+
+34:52 face pro uh plus $500 in hugging face
+34:56 
+
+34:56 credits. The second place gets three
+34:58 
+
+34:58 months hugging face pro and $300 in
+35:01 
+
+35:01 hugging face credits. And the third
+35:03 
+
+35:03 place gets two months of hugging face
+35:06 
+
+35:06 pro plus $200 in hagging face credits.
+35:11 
+
+35:11 Um now time for the hackathon walk
+35:14 
+
+35:14 through. So uh this is the part for all
+35:16 
+
+35:16 of you who are uh hacking with lablap
+35:19 
+
+35:19 for the first time or hacking for the
+35:22 
+
+35:22 first time overall or if you'd like to
+35:24 
+
+35:24 refer some info uh to the experienced
+35:27 
+
+35:27 lab hackers. I I'm going to explain you
+35:29 
+
+35:29 step by step how to register for this
+35:32 
+
+35:32 hackathon, create your team, uh get
+35:34 
+
+35:34 support and mentorship and in the end
+35:38 
+
+35:38 how to successfully submit your project.
+35:41 
+
+35:41 Uh so first of all you hit the hackathon
+35:45 
+
+35:45 page uh so the event page for this exact
+35:48 
+
+35:48 hackathon on lablab.ai
+35:51 
+
+35:51 uh you click sign up with AMD you're
+35:53 
+
+35:53 redirected to creating your AMD AI
+35:55 
+
+35:55 developer program account. You're
+35:57 
+
+35:57 redirected back to the lablab AI website
+36:01 
+
+36:01 and you can already see if the process
+36:03 
+
+36:03 of registration is successful that you
+36:06 
+
+36:06 are enrolled to the hackathon and the
+36:08 
+
+36:08 sign up with AMD button will change into
+36:12 
+
+36:12 create or join a team. Um
+36:16 
+
+36:16 so then you create or join a team. Uh we
+36:20 
+
+36:20 advise you to meet your team on discord.
+36:22 
+
+36:22 Uh so join the lab discord server where
+36:24 
+
+36:24 the Q&A will happen in a moment. Uh come
+36:28 
+
+36:28 up with some concepts for what you'd
+36:30 
+
+36:30 like to build. If you want you can uh
+36:34 
+
+36:34 ask the mentors um on uh on blah blah
+36:37 
+
+36:37 discourse discord for advice if this
+36:39 
+
+36:39 idea is actually good to go. Uh but also
+36:43 
+
+36:43 you can just validate yourself. So, uh,
+36:46 
+
+36:46 carefully read the challenge on the
+36:49 
+
+36:49 hackathon page and before you start
+36:51 
+
+36:51 building, please make sure that you're
+36:53 
+
+36:53 building on the seam of the challenge
+36:56 
+
+36:56 that you've chosen or the exact track.
+36:58 
+
+36:58 Uh, because yeah, this is very
+37:00 
+
+37:00 important. We need to make sure that
+37:02 
+
+37:02 you're building actually what is
+37:04 
+
+37:04 required at this hackathon with the
+37:06 
+
+37:06 required tech as well. Then the building
+37:08 
+
+37:08 phase begins uh and you submit your
+37:11 
+
+37:11 solution via lavlap.ai.
+37:15 
+
+37:15 Um, if you'd like to revisit the steps I
+37:19 
+
+37:19 just mentioned, you can um scan the QR
+37:22 
+
+37:22 code and visit our hackathon guide where
+37:24 
+
+37:24 you can find additional video breaking
+37:26 
+
+37:26 all the steps uh down. So if you have
+37:29 
+
+37:29 any questions, issues, you can always
+37:32 
+
+37:32 just get back to it. Um, so if it comes
+37:36 
+
+37:36 to team creation, uh, you've enrolled to
+37:38 
+
+37:38 the hackathon, you already see the
+37:40 
+
+37:40 button create or join a team, you click
+37:42 
+
+37:42 it. So um you can create your own team
+37:46 
+
+37:46 if you'd like. Remember that teams can
+37:48 
+
+37:48 be from one to six people. So even if
+37:50 
+
+37:50 you're joining solo, you still need to
+37:52 
+
+37:52 create a one person team. Um you can
+37:55 
+
+37:55 form hybrid teams. So if you're joining
+37:57 
+
+37:57 on site, you can invite some folks from
+38:00 
+
+38:00 all over the globe to actually uh join
+38:03 
+
+38:03 the team. And these uh teams are super
+38:06 
+
+38:06 fun. Uh if you're looking for team
+38:07 
+
+38:07 members, yeah, you can always uh visit
+38:10 
+
+38:10 the lab discord server and there's
+38:11 
+
+38:11 always somebody looking for a team uh
+38:14 
+
+38:14 with the skills that you need or you can
+38:17 
+
+38:17 join the existing team and you'll see
+38:19 
+
+38:19 the list of teams on your team
+38:21 
+
+38:21 dashboard. Um yeah, here you can see uh
+38:25 
+
+38:25 the list of teams uh that will be
+38:28 
+
+38:28 visible for you created so far for this
+38:30 
+
+38:30 hackathon. And if the team is looking
+38:32 
+
+38:32 for members, they have a special tag
+38:34 
+
+38:34 looking for members. So you can just um
+38:37 
+
+38:37 connect your Discord uh account here and
+38:41 
+
+38:41 contact the team directly and let them
+38:43 
+
+38:43 know that you'd like to join. So you'll
+38:45 
+
+38:45 have the chat window or you can just
+38:47 
+
+38:47 press the button join team um
+38:51 
+
+38:51 to to join it. Uh then if you'd like to
+38:55 
+
+38:55 contact mentors remember we are here to
+38:57 
+
+38:57 support you throughout the whole
+38:58 
+
+38:58 hackathon and mentors are available uh
+39:02 
+
+39:02 for you all the time. uh scan your code
+39:05 
+
+39:05 to visit the lab discord server if you
+39:07 
+
+39:07 haven't done so already. Um and for
+39:10 
+
+39:10 communication regarding this particular
+39:12 
+
+39:12 hackathon with AMD, please use the
+39:15 
+
+39:15 channels on the AMD developer hackathon
+39:17 
+
+39:17 group. So we keep the communication
+39:19 
+
+39:19 organized and you get your response as
+39:22 
+
+39:22 soon as possible. So the mentors that
+39:26 
+
+39:26 are helping for this hackathon can
+39:28 
+
+39:28 basically see that you're asking about
+39:30 
+
+39:30 that because they are monitoring the
+39:32 
+
+39:32 channel closely. We've got remember
+39:33 
+
+39:33 we've got um over 60,000 folks on the
+39:37 
+
+39:37 love discord. So yeah uh let's keep this
+39:40 
+
+39:40 channels organized. Um please watch out
+39:44 
+
+39:44 for the important announcements on the
+39:46 
+
+39:46 announcement channel. Uh we'll be
+39:48 
+
+39:48 sending their notifications and
+39:50 
+
+39:50 reminders regarding important deadlines
+39:53 
+
+39:53 uh or some news regarding this hackathon
+39:55 
+
+39:55 because yeah we're just kicking off and
+39:56 
+
+39:56 who knows maybe some surprises are
+39:58 
+
+39:58 coming. Um then if you have any
+40:01 
+
+40:01 questions regarding AMD AAI developer
+40:03 
+
+40:03 program there's a specific channel for
+40:04 
+
+40:04 that. Uh then another fun channel which
+40:07 
+
+40:07 is team matchmaking. So this is where
+40:09 
+
+40:09 you can find team members if you're
+40:11 
+
+40:11 looking for some. So remember if you if
+40:14 
+
+40:14 you just saw this hackathon you're
+40:16 
+
+40:16 building solo so far. You need some team
+40:18 
+
+40:18 members and you're just worried that you
+40:20 
+
+40:20 have no friends that would like to
+40:22 
+
+40:22 actually build with you here. We are
+40:23 
+
+40:23 helping you. So yeah tons of people like
+40:26 
+
+40:26 you present. So you can chat with them
+40:28 
+
+40:28 directly there. Um, let the community
+40:32 
+
+40:32 know who you're looking for to power up
+40:33 
+
+40:33 your team. And I'm sure it will take
+40:36 
+
+40:36 maximum a couple of hours until you find
+40:39 
+
+40:39 your whole team. And we've also got the
+40:41 
+
+40:41 general chat so you can just chat
+40:44 
+
+40:44 freely. Um, I advise you to tag
+40:47 
+
+40:47 dedicated mentors on the discord
+40:49 
+
+40:49 channels uh for advice. So you have any
+40:53 
+
+40:53 so if you have any general questions
+40:55 
+
+40:55 about this hackathon you can tag at
+40:57 
+
+40:57 mentors you can see that tag on the
+40:59 
+
+40:59 screen right now um and if you'd like if
+41:02 
+
+41:02 you have any AMD specific questions
+41:05 
+
+41:05 please tag at AMD mentors so the mentors
+41:08 
+
+41:08 from AMD can jump in uh right away and
+41:12 
+
+41:12 help you and if you use this tax mentors
+41:14 
+
+41:14 just get the notifications
+41:16 
+
+41:16 um immediately so they can help you uh
+41:20 
+
+41:20 sooner
+41:21 
+
+41:21 uh for the deliverables that you should
+41:24 
+
+41:24 deliver at the end of the hackathon with
+41:26 
+
+41:26 your submission. Uh scan the QR code to
+41:29 
+
+41:29 learn how to be successful at the
+41:31 
+
+41:31 hackathon and yeah uh three main
+41:34 
+
+41:34 deliverables that you should uh upload
+41:37 
+
+41:37 to your submissions. So first of all the
+41:39 
+
+41:39 product description. So describe uh what
+41:42 
+
+41:42 you've built with details. Uh then the
+41:46 
+
+41:46 presentation. So for the presentation,
+41:49 
+
+41:49 we've got the video um which we advise
+41:53 
+
+41:53 to be no longer than 5 minutes and up to
+41:55 
+
+41:55 300 megabytes. You just uh get the MP4
+41:59 
+
+41:59 file and upload it directly to your
+42:02 
+
+42:02 submission. So remember no links. You
+42:05 
+
+42:05 just need to upload your video file. Uh
+42:07 
+
+42:07 and there's also slides. So uh you can
+42:11 
+
+42:11 so it it's this is the PDF format
+42:14 
+
+42:14 supporting your submission. You can uh
+42:17 
+
+42:17 actually fully customize it to how you
+42:20 
+
+42:20 envision it. It can be a one-pager if
+42:22 
+
+42:22 you manage to make it a one pager. It
+42:24 
+
+42:24 can be a full scale PDF presentation. Uh
+42:27 
+
+42:27 so totally up to you and then the GitHub
+42:30 
+
+42:30 link with the demo so judges can
+42:32 
+
+42:32 actually check it out
+42:35 
+
+42:35 um for the project submission. Uh so
+42:39 
+
+42:39 remember that team page on LabLab uh
+42:42 
+
+42:42 that appeared after clicking create or
+42:44 
+
+42:44 join a team. Once you've created or
+42:45 
+
+42:45 joined a team, you'll be having your own
+42:48 
+
+42:48 uh team dashboard. You'll see the
+42:51 
+
+42:51 counter there um counting the time till
+42:53 
+
+42:53 the end of submissions for this
+42:55 
+
+42:55 hackathon. So, you can always have it
+42:56 
+
+42:56 handy and see how much time you've got
+42:58 
+
+42:58 left. Um if you're ready to submit your
+43:01 
+
+43:01 project earlier, you can of course and
+43:04 
+
+43:04 to submit your project. Um you just
+43:07 
+
+43:07 click the submit project button. Uh and
+43:11 
+
+43:11 after you click it, a project submission
+43:13 
+
+43:13 form will pop up on your team page. Uh
+43:17 
+
+43:17 so you start with submitting the basic
+43:19 
+
+43:19 information about your project. So
+43:21 
+
+43:21 you're giving your project a title, then
+43:23 
+
+43:23 the short description which acts as a
+43:25 
+
+43:25 summary and then the long description.
+43:28 
+
+43:28 So describe what you've built, what
+43:30 
+
+43:30 technology you used, why this is so
+43:32 
+
+43:32 special. Uh so the judges can actually
+43:35 
+
+43:35 dig into that. Then on the next page,
+43:39 
+
+43:39 remember that we had multiple tracks on
+43:41 
+
+43:41 this hackathon. Uh so choose the track
+43:45 
+
+43:45 uh that you are building upon. So as we
+43:48 
+
+43:48 have separate prize pools, we can know
+43:50 
+
+43:50 who is fighting for which specific prize
+43:52 
+
+43:52 pool for which specific track. Um then
+43:57 
+
+43:57 if you're joining us online, uh so all
+44:01 
+
+44:01 the members of your team are building
+44:03 
+
+44:03 fully online. um you select your
+44:06 
+
+44:06 participation mode as online and if at
+44:09 
+
+44:09 least one member uh from your team uh is
+44:13 
+
+44:13 going to be with us in San Francisco,
+44:15 
+
+44:15 you choose onsite.
+44:18 
+
+44:18 Uh for additional tips, you can scan the
+44:21 
+
+44:21 QR code and explore uh our tips and
+44:24 
+
+44:24 tricks. Um, and before we finish, um, I
+44:30 
+
+44:30 always tell you that, uh, I always tell
+44:34 
+
+44:34 you to keep the momentum going and to
+44:36 
+
+44:36 not stop at one hackathon and not treat
+44:40 
+
+44:40 it as a weekend build. Remember that in
+44:42 
+
+44:42 here we've got the building public track
+44:43 
+
+44:43 with uh, with extra prizes for you. Um,
+44:47 
+
+44:47 so stay loud about your project and
+44:49 
+
+44:49 continue building after the hackathon,
+44:51 
+
+44:51 but we'll get to that in the winner
+44:53 
+
+44:53 stream. Uh and for now I encourage you
+44:57 
+
+44:57 to uh register for our upcoming
+44:60 
+
+44:60 hackathons to not stop at one. So let's
+45:02 
+
+45:02 go through the upcoming events one by
+45:04 
+
+45:04 one. First of all uh we've got the
+45:07 
+
+45:07 transforming enterprise to AI hackathon.
+45:10 
+
+45:10 Uh so the official hackathon of AI and
+45:13 
+
+45:13 big data expo North America powered by
+45:16 
+
+45:16 Native AI search Google deep mind Google
+45:19 
+
+45:19 AI studio Gemini uh and via uh so far
+45:24 
+
+45:24 more to come. Uh at the moment we've got
+45:27 
+
+45:27 the $10,000 price pool we're building
+45:30 
+
+45:30 from May 11th to May 19th. This
+45:33 
+
+45:33 hackathon is also hybrid. So we're
+45:35 
+
+45:35 building first online and then the
+45:37 
+
+45:37 on-site part is happening on May 18th to
+45:40 
+
+45:40 19th in San Jose at the AI and big data
+45:44 
+
+45:44 expo North America. Uh so if you'd like
+45:47 
+
+45:47 to join us in San Jose and enjoy the
+45:49 
+
+45:49 conference as well, just find this page
+45:52 
+
+45:52 on lai and register. Uh then the the
+45:57 
+
+45:57 other hackathon AI agent Olympics
+45:59 
+
+45:59 hackathon. So, also the official
+46:01 
+
+46:01 hackathon of Milan AI week 2020
+46:04 
+
+46:04 uh six. Uh we've got almost $30,000
+46:09 
+
+46:09 in prizes for this one. Um also hybrid.
+46:12 
+
+46:12 So, first uh up we're starting building
+46:15 
+
+46:15 on May 13th uh online and then the
+46:18 
+
+46:18 on-site part is happening on May 19th to
+46:22 
+
+46:22 20 in Milano. Um we have tons of
+46:27 
+
+46:27 partners in here. As you can see, the
+46:29 
+
+46:29 main challenge is AA agents. So, you can
+46:32 
+
+46:32 really go out. A lot of creative ideas
+46:35 
+
+46:35 are welcome and uh yeah, the tracks are
+46:39 
+
+46:39 quite widely here. So, I believe most of
+46:42 
+
+46:42 the ideas that you can come up with for
+46:44 
+
+46:44 the apps and agents uh can actually fit
+46:47 
+
+46:47 into this one. And last but not least,
+46:50 
+
+46:50 the IBM Bob Hackathon. What a cool name
+46:54 
+
+46:54 that is. Uh this hackathon is uh running
+46:57 
+
+46:57 fully online from May 15th to May 17th.
+47:01 
+
+47:01 So no matter where you're at, you're
+47:03 
+
+47:03 building online and you're building with
+47:05 
+
+47:05 IBM Bob. Uh not sure if uh you've heard
+47:09 
+
+47:09 of this tool uh already. Uh but
+47:12 
+
+47:12 basically this yeah the oneliner says
+47:15 
+
+47:15 your repo your uh rose AI as your dev
+47:20 
+
+47:20 partner and here IBM Bob is your dev
+47:22 
+
+47:22 partner. Um, so show us what you can
+47:26 
+
+47:26 build with that. Uh, we've got $10,000
+47:28 
+
+47:28 in prizes. Um, yeah, all the IBM
+47:32 
+
+47:32 hackathons that we run at LabLab are a
+47:35 
+
+47:35 blast and we know that the community
+47:37 
+
+47:37 loves them. So, go join it. Uh,
+47:40 
+
+47:40 honestly, I would join all of these. Uh,
+47:44 
+
+47:44 so choose your challenge and keep
+47:45 
+
+47:45 building after the AMD hackathon.
+47:49 
+
+47:49 Uh, now I encourage you to follow us on
+47:52 
+
+47:52 social media. follow AI at AMD uh and
+47:55 
+
+47:55 all the partners foring up this
+47:57 
+
+47:57 hackathon and tag us when you're posting
+47:60 
+
+47:60 about your projects so we can amplify
+48:03 
+
+48:03 you and we can actually see what you're
+48:05 
+
+48:05 building and it's always a chance to get
+48:08 
+
+48:08 noticed. Um and now it's time for me to
+48:13 
+
+48:13 wish you all good luck. I honestly
+48:15 
+
+48:15 cannot wait to see what you're building.
+48:18 
+
+48:18 remember about the Q&A session that's
+48:20 
+
+48:20 happening today at 10 a.m. uh Pacific
+48:25 
+
+48:25 time which is also 7 PM C uh for those
+48:28 
+
+48:28 of you joining from uh from Europe go
+48:31 
+
+48:31 straight join join it and yeah you can
+48:34 
+
+48:34 ask any of the questions that are still
+48:36 
+
+48:36 popping in your head after the stream
+48:38 
+
+48:38 and you get your answers live on uh on
+48:42 
+
+48:42 the session there. So yeah, go to level
+48:44 
+
+48:44 up Discord server and enjoy the Q&A
+48:46 
+
+48:46 session. And now good luck hackers. Uh
+48:50 
+
+48:50 yeah, do your best. Um
+48:53 
+
+48:53 best of luck. And yeah, we're remember
+48:56 
+
+48:56 about the submission deadline. Bye
+48:57 
+
+48:57 everybody.
+49:04 
+
+49:04 [music]
+49:12 
+
+49:12 >> [music]
+49:18 
+
+49:18 [music]
